@@ -1,0 +1,3 @@
+X=9 nq=13 free=8 sym=3..8 n0=3 node=288B grid=246x128
+X=9 budget=0 gpu leaves=830955779 survivors=0 steps=96702705048 wall=4.7s dead-at-stage(0..9): 0 755283390 74755943 852182 20270 420 36 0 43538 0
+  launches=172 peak stack=1255824 nodes (0.36 GB) 2.08e+10 steps/s

@@ -1,0 +1,1 @@
+X=9 budget=0 front=458 leaves=830955779 survivors=0 steps=96702705048 wall=48.3s dead-at-stage(0..9): 0 755283390 74755943 852182 20270 420 36 0 43538 0

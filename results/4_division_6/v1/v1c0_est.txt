@@ -1,0 +1,42 @@
+# e13search estimate c0_<v>.txt 4000000 9 0 3 9 D0 D1 E0 E1 F0 F1 G0 G1 H0 H1 I0 I1 for each value <v> of C0 (8 targets up to the D-I symmetry x 4 moves).
+# Columns: leaves (mean, standard error), steps (mean, standard error), survivors (mean). Values with one leaf never branch, so their numbers are exact.
+c0_0LA leaves 1.000e+00 0.0e+00 steps 6.300e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_0LB leaves 1.000e+00 0.0e+00 steps 6.300e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_0LC leaves 1.000e+00 0.0e+00 steps 6.300e+01 0.0e+00 surv 0.000e+00 wall=0.2s
+c0_0LD leaves 4.414e+13 1.0e+13 steps 3.195e+15 6.7e+14 surv 0.000e+00 wall=7.9s
+c0_0LK leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_0LL leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_0LM leaves 1.000e+00 0.0e+00 steps 1.900e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_0LN leaves 1.000e+00 0.0e+00 steps 3.600e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_0RA leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.5s
+c0_0RB leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.5s
+c0_0RC leaves 1.000e+00 0.0e+00 steps 6.800e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_0RD leaves 2.111e+13 5.5e+12 steps 2.351e+15 6.8e+14 surv 0.000e+00 wall=6.7s
+c0_0RK leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_0RL leaves 1.000e+00 0.0e+00 steps 7.000e+00 0.0e+00 surv 0.000e+00 wall=0.2s
+c0_0RM leaves 1.000e+00 0.0e+00 steps 3.000e+00 0.0e+00 surv 0.000e+00 wall=0.1s
+c0_0RN leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_1LA leaves 1.000e+00 0.0e+00 steps 6.300e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_1LB leaves 1.000e+00 0.0e+00 steps 6.300e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_1LC leaves 1.000e+00 0.0e+00 steps 6.300e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_1LD leaves 2.386e+13 4.6e+12 steps 2.131e+15 4.2e+14 surv 0.000e+00 wall=7.6s
+c0_1LK leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_1LL leaves 1.000e+00 0.0e+00 steps 5.000e+00 0.0e+00 surv 0.000e+00 wall=0.1s
+c0_1LM leaves 1.000e+00 0.0e+00 steps 2.400e+01 0.0e+00 surv 0.000e+00 wall=0.3s
+c0_1LN leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_1RA leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.5s
+c0_1RB leaves 1.000e+00 0.0e+00 steps 1.250e+02 0.0e+00 surv 0.000e+00 wall=0.5s
+c0_1RC leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.5s
+c0_1RD leaves 4.200e+13 1.1e+13 steps 4.145e+15 1.1e+15 surv 0.000e+00 wall=2.7s
+c0_1RK leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_1RL leaves 1.000e+00 0.0e+00 steps 1.530e+02 0.0e+00 surv 0.000e+00 wall=0.6s
+c0_1RM leaves 1.000e+00 0.0e+00 steps 3.000e+00 0.0e+00 surv 0.000e+00 wall=0.1s
+c0_1RN leaves 1.000e+00 0.0e+00 steps 4.000e+00 0.0e+00 surv 0.000e+00 wall=0.1s
+0RD seed1 leaves 2.371e+13 +-4.1e+12 steps 2.360e+15 +-4.7e+14
+0RD seed2 leaves 3.613e+13 +-5.8e+12 steps 3.726e+15 +-6.4e+14
+0LD seed1 leaves 4.023e+13 +-5.8e+12 steps 3.730e+15 +-6.5e+14
+0LD seed2 leaves 3.665e+13 +-5.7e+12 steps 3.522e+15 +-6.4e+14
+1LD seed1 leaves 3.990e+13 +-5.9e+12 steps 3.546e+15 +-5.8e+14
+1LD seed2 leaves 2.371e+13 +-4.3e+12 steps 1.981e+15 +-3.8e+14
+1RD seed1 leaves 3.704e+13 +-7.4e+12 steps 3.622e+15 +-8.0e+14
+1RD seed2 leaves 3.274e+13 +-5.7e+12 steps 2.613e+15 +-4.3e+14

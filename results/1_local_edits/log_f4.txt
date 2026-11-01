@@ -1,0 +1,14 @@
+X=12 forced=2 fmax=4 front=2232 leaves=65026174 survivors=25 wall=56.5s dead-at-stage(0..9): 3922647 50056215 10882135 132149 24262 236 3331 3 5171 0
+X=13 forced=2 fmax=4 front=2232 leaves=78186331 survivors=9 wall=46.1s dead-at-stage(0..9): 8995435 60051719 9097699 37281 2709 36 440 0 1003 0
+X=9 forced=2 fmax=4 front=2232 leaves=97794201 survivors=0 wall=61.2s dead-at-stage(0..9): 7510927 77617836 12399874 232368 28817 643 79 0 3657 0
+X=10 forced=2 fmax=4 front=2232 leaves=108212342 survivors=0 wall=52.1s dead-at-stage(0..9): 12908308 91637163 3643257 22528 366 381 0 0 339 0
+X=2 forced=2 fmax=4 front=2232 leaves=179276486 survivors=0 wall=7.4s dead-at-stage(0..9): 50300989 126193753 2734768 44262 709 1845 0 0 160 0
+X=3 forced=2 fmax=4 front=2232 leaves=117201219 survivors=4 wall=64.3s dead-at-stage(0..9): 11046743 104544463 1589388 17383 2700 7 129 0 402 0
+X=4 forced=2 fmax=4 front=2232 leaves=52214301 survivors=0 wall=28.4s dead-at-stage(0..9): 3895415 47598968 719287 619 0 0 1 0 11 0
+X=0 forced=1 fmax=4 front=2232 leaves=735080311 survivors=0 wall=174.4s dead-at-stage(0..9): 424056533 303713072 7280074 29388 569 638 0 0 37 0
+X=1 forced=1 fmax=4 front=2232 leaves=939885204 survivors=0 wall=34.0s dead-at-stage(0..9): 538369517 383646961 17791220 74105 1857 1428 2 0 114 0
+X=5 forced=1 fmax=4 front=2232 leaves=576887608 survivors=2 wall=272.3s dead-at-stage(0..9): 92289451 472880121 11703259 14083 273 3 59 0 357 0
+X=6 forced=1 fmax=4 front=2232 leaves=591527327 survivors=0 wall=282.6s dead-at-stage(0..9): 75573981 503947356 11991959 13403 161 2 1 0 464 0
+X=7 forced=1 fmax=4 front=2232 leaves=540847682 survivors=1 wall=350.1s dead-at-stage(0..9): 56168981 444188964 40169378 297192 12976 204 61 0 9925 0
+X=8 forced=1 fmax=4 front=2232 leaves=764888835 survivors=10 wall=475.7s dead-at-stage(0..9): 86027289 622969939 54379735 1441866 31170 2380 4573 0 31873 0
+X=11 forced=1 fmax=4 front=2232 leaves=1139589001 survivors=6 wall=583.7s dead-at-stage(0..9): 171097604 934871475 33543797 72249 2571 358 39 0 902 0

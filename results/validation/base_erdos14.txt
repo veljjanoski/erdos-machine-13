@@ -1,0 +1,2 @@
+# e13search base machines/erdos_14.txt (shipped src/e13search.c, 2026-11-01)
+base states=14 result=SURV stage=9 st0=2 head0=-2 abs=1 rel=0 steps=208864

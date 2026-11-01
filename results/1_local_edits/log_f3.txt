@@ -1,0 +1,14 @@
+X=0 forced=1 fmax=3 front=2232 leaves=4385567 survivors=0 wall=1.2s dead-at-stage(0..9): 2683007 1654602 47767 190 1 0 0 0 0 0
+X=1 forced=1 fmax=3 front=2232 leaves=5724632 survivors=0 wall=0.2s dead-at-stage(0..9): 3513704 2075012 134831 1011 31 43 0 0 0 0
+X=2 forced=2 fmax=3 front=1459 leaves=863707 survivors=0 wall=0.0s dead-at-stage(0..9): 252393 594255 16037 975 13 34 0 0 0 0
+X=3 forced=2 fmax=3 front=1416 leaves=509800 survivors=0 wall=0.3s dead-at-stage(0..9): 33286 464021 12330 130 29 0 2 0 2 0
+X=4 forced=2 fmax=3 front=520 leaves=186130 survivors=0 wall=0.1s dead-at-stage(0..9): 2216 180743 3170 1 0 0 0 0 0 0
+X=5 forced=1 fmax=3 front=2232 leaves=3704179 survivors=0 wall=1.9s dead-at-stage(0..9): 494743 3114663 94604 166 1 0 1 0 1 0
+X=6 forced=1 fmax=3 front=2232 leaves=4019658 survivors=0 wall=2.1s dead-at-stage(0..9): 326006 3604989 88604 58 0 0 0 0 1 0
+X=7 forced=1 fmax=3 front=2232 leaves=3235062 survivors=0 wall=2.4s dead-at-stage(0..9): 183560 2550508 494616 5765 445 2 1 0 165 0
+X=8 forced=1 fmax=3 front=2232 leaves=4807569 survivors=5 wall=4.6s dead-at-stage(0..9): 311486 3702271 748482 42918 684 78 924 0 721 0
+X=9 forced=2 fmax=3 front=881 leaves=364684 survivors=0 wall=0.3s dead-at-stage(0..9): 8944 232102 122115 1016 483 7 0 0 17 0
+X=10 forced=2 fmax=3 front=1801 leaves=553614 survivors=0 wall=0.3s dead-at-stage(0..9): 36394 496579 20309 326 0 6 0 0 0 0
+X=11 forced=1 fmax=3 front=2232 leaves=7550680 survivors=0 wall=4.0s dead-at-stage(0..9): 862278 6445803 242153 424 19 3 0 0 0 0
+X=12 forced=2 fmax=3 front=1484 leaves=204307 survivors=6 wall=0.4s dead-at-stage(0..9): 6972 120094 75918 746 194 0 292 0 85 0
+X=13 forced=2 fmax=3 front=1857 leaves=273878 survivors=0 wall=0.2s dead-at-stage(0..9): 19255 174473 79903 228 2 0 12 0 5 0

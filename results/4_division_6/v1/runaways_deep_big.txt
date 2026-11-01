@@ -1,0 +1,4 @@
+# deep_big 16 < offtape3.txt (src/deep_big.c, 2026-11-01): the 3 runaways, 4M-cell tape
+survivor 1 (nq=13 st0=2): n1:0 n2:0 n3:8@-11 n4:8@-11 n5:8@-11 n6:8@-11 n7:8@-11 n8:8@-11 n9:17@-21 n10:17@-21 n11:17@-21 | stage 12 NOT reached (limit, t=1078081324) head=-167280 state=B ones=8888 in [-167354,2047]
+survivor 2 (nq=13 st0=2): n1:0 n2:0 n3:8@-11 n4:8@-11 n5:8@-11 n6:8@-11 n7:8@-11 n8:8@-11 n9:17@-21 n10:17@-21 n11:17@-21 | stage 12 NOT reached (limit, t=1078081316) head=-167314 state=A ones=8884 in [-167354,2047]
+survivor 3 (nq=13 st0=2): n1:0 n2:0 n3:8@-11 n4:8@-11 n5:8@-11 n6:8@-11 n7:8@-11 n8:8@-11 n9:17@-21 n10:17@-21 n11:17@-21 | stage 12 NOT reached (limit, t=1078081324) head=-167280 state=B ones=8888 in [-167354,2047]

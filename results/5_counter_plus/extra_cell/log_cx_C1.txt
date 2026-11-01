@@ -1,0 +1,8 @@
+X=13 nq=13 free=9 sym=10..12 n0=0 node=288B grid=246x128
+  wall=41s leaves=19303188596 steps=1.987e+12 (4.86e+10/s) survivors=1 stack=1626567 peak=2815781 batch=131072
+  wall=71s leaves=36696322294 steps=3.862e+12 (5.45e+10/s) survivors=5 stack=1495996 peak=2973322 batch=131072
+  wall=101s leaves=55098585009 steps=5.801e+12 (5.75e+10/s) survivors=8 stack=486126 peak=3153494 batch=131072
+  wall=131s leaves=72957361981 steps=7.649e+12 (5.84e+10/s) survivors=33 stack=828983 peak=3153494 batch=131072
+  wall=161s leaves=89338082022 steps=9.535e+12 (5.93e+10/s) survivors=51 stack=453729 peak=3153494 batch=131072
+X=13 budget=0 gpu leaves=90976928448 survivors=61 steps=9743609383749 wall=164.1s dead-at-stage(0..9): 0 83758254785 7113667945 103744283 1198561 48063 2150 0 12600 0
+  launches=13634 peak stack=3153494 nodes (0.91 GB) 5.94e+10 steps/s
